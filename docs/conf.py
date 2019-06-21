@@ -20,7 +20,7 @@
 project = 'libnice'
 copyright = '2019, Simon Brand'
 author = 'Simon Brand'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
